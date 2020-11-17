@@ -2,7 +2,4 @@
 
 - 🌱 I’m currently learning the algorithms
 
-
-
-
-![alt text](https://github.com/LeikoDmitry/LeikoDmitry/blob/main/Zend-framework.png?raw=true)
+![alt text](https://github.com/LeikoDmitry/LeikoDmitry/blob/main/php.png?raw=true)
